@@ -11,7 +11,7 @@ ZMIANY:
 - SEO, portfolio demonstracyjne, sitemap, robots.txt, 404 i nagłówki bezpieczeństwa pozostają.
 
 KONTAKT:
-Ignacy.wnetrzak007@gmail.com
+kontakt@iwnsites.pl
 573 959 717
 
 PO UKOŃCZENIU 18 LAT:
