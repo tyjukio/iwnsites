@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /projekty/
+
+Sitemap: https://iwnsites.pl/sitemap.xml
